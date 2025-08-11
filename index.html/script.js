@@ -1,17 +1,17 @@
  const reviews =[
     {
         id: 1,
-        name:'Susan',
+        name:'Ms. Joseph',
         job: 'Teacher',
         img: '#',
-        text: ' Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
+        text: 'Micah is a presistant students who always does well. He gets his work done before its due and always makes sure he does his best on each assignment.',
  }, 
 {
     id: 2,
-    name: 'Anna Johnson',
+    name: 'Ms. Agrawal',
     job: 'Teacher',
     img: '#',
-    text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
+    text: 'Micah does all his work and never has issues with other teachers. He always does well on his assignments and turns it in on time.',
 },
 {
     id: 3,
